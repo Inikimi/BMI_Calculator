@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calculator">Bmi Calculator</string>
+    <string name="hello_there">Hello There!</string>
+    <string name="name_muhammad_hakimi_bin_ahmad">Name: Muhammad Hakimi Bin Ahmad</string>
+    <string name="matrix_2020977173">Matrix: 2020977173</string>
+    <string name="class_rcs2405b">Class: RCS2405B</string>
+    <string name="github">Github:</string>
+    <string name="todo">TODO</string>
+    <string name="link">
+        <a href ="https//:www.google.com">Click Here to learn more...</a>
+    </string>
+    <string name="calculator">Calculator</string>
+</resources>
